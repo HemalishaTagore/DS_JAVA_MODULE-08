@@ -1,5 +1,5 @@
 # Ex13 Fill the First 10 Elements of an Array with a Constant using Arrays.fill()
-## DATE:
+## DATE: 20/08/2026
 ## AIM:
 To write a Java program that fills the first 10 elements of an array with a constant value using the Arrays.fill() method.
 ## Algorithm
@@ -36,8 +36,8 @@ class FillArray {
 ## Output:
 
 
+<img width="709" height="322" alt="image" src="https://github.com/user-attachments/assets/25d7e090-5809-4a47-aac5-ad28625f8d7f" />
 
-<img width="423" height="65" alt="image" src="https://github.com/user-attachments/assets/64db8a88-57cc-4831-b295-32156e125068" />
 
 
 ## Result:
