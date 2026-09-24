@@ -59,7 +59,8 @@ class FirstUniqueNumber {
 
 ## Output:
 
-![Uploading image.png…]()
+
+<img width="696" height="622" alt="image" src="https://github.com/user-attachments/assets/7fd6327e-d538-42d3-841e-402a682c8ec3" />
 
 
 ## Result:
